@@ -1,12 +1,9 @@
-package islandcount;
+package linkedlistloop;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
-import org.junit.Assert;
-
-class IslandCount {
+class LinkedListLoop {
 
     private static class Cell {
         private int r;
